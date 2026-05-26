@@ -1,0 +1,43 @@
+{
+    "domain": "lacasadelasnaricesfrias.org",
+    "base_url": "http:\/\/lacasadelasnaricesfrias.org",
+    "pages": 64,
+    "assets": 21,
+    "total_files": 85,
+    "total_size_mb": 17.49,
+    "output_dir": "\/tmp\/static-export\/lacasadelasnaricesfrias.org",
+    "pages_failed": [
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-sitemap.xml"
+    ],
+    "assets_failed": [
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/Deisy-Gonzalez-voluntaria.jpg",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png#123",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png#124",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png#125",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/Deisy-Gonzalez-voluntaria.jpg",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png#123",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png#124",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png#125",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/Deisy-Gonzalez-voluntaria.jpg",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png#123",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png#124",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png#125",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/Deisy-Gonzalez-voluntaria.jpg",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png#123",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png#124",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png#125",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-1-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-2-07.png",
+        "http:\/\/lacasadelasnaricesfrias.org\/wp-content\/uploads\/2024\/03\/equipo-3-07.png"
+    ],
+    "generated_at": "2026-05-21 16:13:58"
+}
